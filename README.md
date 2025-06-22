@@ -153,6 +153,7 @@ This repository showcases my approach to network traffic analysis through three 
      2. Right-click → Follow → TCP Stream 
      3. Find “Borden Danilevich” in the stream using the search bar on the bottom left. 
    - **Answer:** Sales
+   - ![Screenshot](images/img2)
 
 5. **SSH password of Domain Administrator?**
    - **Wireshark (GUI):**
