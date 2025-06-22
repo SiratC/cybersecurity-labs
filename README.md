@@ -131,6 +131,7 @@ This repository showcases my approach to network traffic analysis through three 
      - `arp.opcode == 2` shows ARP replies.
      - Attackers poison through unsolicited replies.
    - **Answer:** `08:00:27:3d:27:5d`
+   ![Screenshot](images/img1.png)
 
 2. **Type of attack?**
    - **Observation:** Unsolicited ARP replies mapping gateway IP to attacker MAC.
@@ -153,7 +154,7 @@ This repository showcases my approach to network traffic analysis through three 
      2. Right-click → Follow → TCP Stream 
      3. Find “Borden Danilevich” in the stream using the search bar on the bottom left. 
    - **Answer:** Sales
-   - ![Screenshot](images/img2.png)
+    ![Screenshot](images/img2.png)
 
 5. **SSH password of Domain Administrator?**
    - **Wireshark (GUI):**
@@ -161,6 +162,7 @@ This repository showcases my approach to network traffic analysis through three 
    - **Reasoning:**
      - Same FTP stream includes credentials.
    - **Answer:** `gMR<4eXf]e6W`
+   ![Screenshot](images/img3.png)
 
 ---
 
