@@ -167,4 +167,4 @@ This repository showcases my approach to network traffic analysis through three 
 ---
 
 ### Conclusion
-This helped me gain experience using `tcpdump`, `tshark`, and Wireshark to extract network information: packet counts, flags, TTLs, decrypted HTTP headers, file downloads, ARP poisoning indicators, and even misplaced credentials—key skills for network forensics.  
+This helped me gain experience using `tcpdump`, `tshark`, and Wireshark to extract network information: packet counts, flags, TTLs, decrypted HTTP headers, file downloads, ARP poisoning indicators, and misplaced credentials.  
