@@ -25,7 +25,7 @@
 
 ### 1️⃣  Searched the profile on X
 https://twitter.com/sp1ritfyre 
-*Use a Private / Incognito window.* The bio contains the suspicious string: cmVkaHVudC5uZXQK.xyz
+The bio contains the suspicious string: cmVkaHVudC5uZXQK.xyz
 
 ![Twitter bio](images/im1.png)
 
@@ -78,4 +78,6 @@ Clicked the **View my complete profile** page on **sammiewoodsec.blogspot.com** 
 
 ## Outcome
 By putting together a single Base64 decode, one Google dork, and a hex decode, I linked `@sp1ritfyre` → **redhunt.net** → **sammiewoodsec.blogspot.com**, confirming the owner as **Sammie Woods** with complete profile details required for the Managed Service Provider (MSP) breach.
+
+
 
