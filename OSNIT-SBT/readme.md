@@ -3,25 +3,36 @@
 ---
 
 ## Overview
-> **Goal**  Given the Twitter handle — `@sp1ritfyre` — Goal is to find a verified real-world profile and answer the following questions:
+> **Goal**  Given the Twitter handle — `@sp1ritfyre` — I have gone through a step-by-step process to get these answers for the following questions:
 
  1. What is the hacker's first name?
- 2. What is the hacker's last name?
- 3. What is the hacker's age?
- 4. What country does the hacker live in?
- 5. What are some of the hacker's interests? (choose 5)
- 6. What company does the hacker work for? 
- 7. What is the hacker's position within the company?
- 8. What is the full url of the website owned by the hacker?
- 9. List any full URLs of websites not owned, but used by the hacker (Blogs only)
- 10. What email address has been used by the hacker?
+    - Sammie
+ 3. What is the hacker's last name?
+    - Woods
+ 5. What is the hacker's age?
+    - 23
+ 7. What country does the hacker live in?
+    - United Kingdom
+ 9. What are some of the hacker's interests? (choose 5)
+    - Security, Programming, Technology, Gaming, Photography, Camping
+ 11. What company does the hacker work for?
+    - PhilmanSecurityInc
+ 13. What is the hacker's position within the company?
+    - Junior Penetration Tester
+ 15. What is the full url of the website owned by the hacker?
+    - https://redhunt.net
+ 17. List any full URLs of websites not owned, but used by the hacker (Blogs only)
+    - https://sammiewoodsec.blogspot.com
+    - https://sp1ritfyrehackerstories.blogspot.com
+ 19. What email address has been used by the hacker?
+    - d1ved33p@gmail.com
 
 > **Tools used**: Private-mac browser · Google · base64 decoder · hex string decoder.
 
 
 ---
 
-## How I Approached This Step-by-Step:
+## How I Approached These Step-by-Step:
 
 ### 1.  Searched the profile on X
 https://twitter.com/sp1ritfyre 
@@ -63,7 +74,7 @@ Clicked the **View my complete profile** page on **sammiewoodsec.blogspot.com** 
 ![Info page](images/im7.png)
 ---
 
-### Extracted Identity - Answer to The Questions: 
+### Extracted Identity: 
 | Field | Value |
 |-------|-------|
 | **Name** | Sammie Woods |
