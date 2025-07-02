@@ -7,24 +7,25 @@
 
  1. What is the hacker's first name?
     - Sammie
- 3. What is the hacker's last name?
+ 2. What is the hacker's last name?
     - Woods
- 5. What is the hacker's age?
+ 3. What is the hacker's age?
     - 23
- 7. What country does the hacker live in?
+ 4. What country does the hacker live in?
     - United Kingdom
- 9. What are some of the hacker's interests? (choose 5)
+ 5. What are some of the hacker's interests? (choose 5)
     - Security, Programming, Technology, Gaming, Photography, Camping
- 11. What company does the hacker work for?
+ 6. What company does the hacker work for?
     - PhilmanSecurityInc
- 13. What is the hacker's position within the company?
+ 7. What is the hacker's position within the company?
     - Junior Penetration Tester
- 15. What is the full url of the website owned by the hacker?
+ 8. What is the full url of the website owned by the hacker?
     - https://redhunt.net
- 17. List any full URLs of websites not owned, but used by the hacker (Blogs only)
+ 9. List any full URLs of websites not owned, but used by the hacker (Blogs only)
     - https://sammiewoodsec.blogspot.com
+      
     - https://www.blogger.com/profile/08313689826885886832
- 19. What email address has been used by the hacker?
+ 10. What email address has been used by the hacker?
     - d1ved33p@gmail.com
 
 > **Tools used**: Private-mac browser · Google · base64 decoder · hex string decoder.
