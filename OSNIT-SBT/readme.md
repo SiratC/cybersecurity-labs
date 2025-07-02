@@ -23,7 +23,7 @@
     - https://redhunt.net
  17. List any full URLs of websites not owned, but used by the hacker (Blogs only)
     - https://sammiewoodsec.blogspot.com
-    - https://sp1ritfyrehackerstories.blogspot.com
+    - https://www.blogger.com/profile/08313689826885886832
  19. What email address has been used by the hacker?
     - d1ved33p@gmail.com
 
