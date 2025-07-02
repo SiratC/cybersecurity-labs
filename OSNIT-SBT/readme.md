@@ -23,7 +23,7 @@
 
 ## How I Approached This Step-by-Step:
 
-### 1️⃣  Searched the profile on X
+### 1.  Searched the profile on X
 https://twitter.com/sp1ritfyre 
 The bio contains the suspicious string: cmVkaHVudC5uZXQK.xyz
 
@@ -31,7 +31,7 @@ The bio contains the suspicious string: cmVkaHVudC5uZXQK.xyz
 
 ---
 
-### 2️⃣  Decoded the Base64 blob
+### 2.  Decoded the Base64 blob
 Pasted **`cmVkaHVudC5uZXQK`** into an online Base64 decoder (e.g. <https://base64decode.org>).  
 The output is: redhunt.net
 
@@ -39,7 +39,7 @@ The output is: redhunt.net
 
 ---
 
-### 3️⃣  Google-dorked the handle
+### 3.  Google-dorked the handle
 Google searched: "sp1ritfyre"
 
 The first result shown is **sp1ritfyre.blogspot.com** on the results page. Clicked and got this: 
@@ -47,7 +47,7 @@ The first result shown is **sp1ritfyre.blogspot.com** on the results page. Click
 
 ---
 
-### 4️⃣  Decoded the hex string 
+### 4.  Decoded the hex string 
 Extracted the long hex value from the blog’s page beside the word location → pasted it into an online Hex-to-Text tool (e.g. <https://www.duplichecker.com/hex-to-text.php>).  
 It revealed to be: https://sammiewoodsec.blogspot.com
 
@@ -56,7 +56,7 @@ It revealed to be: https://sammiewoodsec.blogspot.com
 ![Hex decode pt2](images/im5.png)
 ---
 
-### 5️⃣  Harvested identity details
+### 5.  Harvested identity details
 Clicked the **View my complete profile** page on **sammiewoodsec.blogspot.com** and found the personal data.  
 ![About page](images/im6.png)
 
